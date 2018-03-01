@@ -114,13 +114,13 @@
 		584A994F2047A673008AB107 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				584A99502047A673008AB107 /* GoodsCommonComponentLayout.h */,
 				584A99512047A673008AB107 /* GDAppraiseCollectionCell.m */,
 				584A99522047A673008AB107 /* GoodsCommonComponentHeader.m */,
 				584A99532047A673008AB107 /* GoodsCommonComponent.h */,
 				584A99542047A673008AB107 /* GoodsCommonComponentBody.m */,
 				584A99552047A673008AB107 /* GDAppraiseCollectionCell.xib */,
 				584A99562047A673008AB107 /* GoodsCommonComponentLayout.m */,
+				584A99502047A673008AB107 /* GoodsCommonComponentLayout.h */,
 				584A99572047A673008AB107 /* GoodsCommonComponentHeader.h */,
 				584A99582047A673008AB107 /* GDAppraiseCollectionCell.h */,
 				584A99592047A673008AB107 /* GoodsCommonComponentBody.h */,

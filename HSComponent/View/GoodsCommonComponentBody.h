@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+
 @class Comments;
 
 @protocol GoodsCommonComponentBodyDelegate<NSObject>
