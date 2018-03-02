@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HSComponent"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "HSComponent"
 
   # This description is used to generate tags and improve search results.
@@ -106,7 +106,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  s.resources = "HSComponent/Resources/GDAppraiseCollectionCell.xib"
+  s.resources = "HSComponent/Resources/*.xib"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
